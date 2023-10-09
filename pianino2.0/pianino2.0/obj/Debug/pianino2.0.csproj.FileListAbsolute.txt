@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\pianino2.0\pianino2.0\bin\Debug\pianino2.0.exe.config
+C:\Users\user\source\repos\pianino2.0\pianino2.0\bin\Debug\pianino2.0.exe
+C:\Users\user\source\repos\pianino2.0\pianino2.0\bin\Debug\pianino2.0.pdb
+C:\Users\user\source\repos\pianino2.0\pianino2.0\obj\Debug\pianino2.0.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\pianino2.0\pianino2.0\obj\Debug\pianino2.0.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\pianino2.0\pianino2.0\obj\Debug\pianino2.0.exe
+C:\Users\user\source\repos\pianino2.0\pianino2.0\obj\Debug\pianino2.0.pdb
